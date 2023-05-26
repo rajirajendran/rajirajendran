@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Raji Rajendran 👋
 
 
 I am an accomplished IT Analyst with a proven track record in the Government, Transportation, and Logistics sectors. My expertise lies in Windows Server, SQL Server, Microsoft 365, Azure, Powershell, Linux, Middlewares, Node JS, Express, EJS, HTML, CSS, and JavaScript. I possess strong proficiency in these areas and have honed my skills through hands-on experience. As an IT professional, I hold a Bachelor's Degree in Computer Science, which has provided me with a solid foundation in the field.
@@ -21,6 +21,10 @@ I am an accomplished IT Analyst with a proven track record in the Government, Tr
 
 
 
+
+### 📝 Github Status
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=rajirajendran&hide=contribs,prs&show_icons=true&theme=dar)
 
 
 <!--
