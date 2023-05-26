@@ -25,10 +25,10 @@ I am an accomplished IT Analyst with a proven track record in the Government, Tr
 
 
 
-
+<!--
 ### 📝 Github Status
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=rajirajendran&hide=contribs,prs&show_icons=true&theme=dar)
+![Github Status](https://github-readme-stats.vercel.app/api?username=rajirajendran&hide=contribs,prs&show_icons=true&theme=dar) -->
 
 
 <!--
