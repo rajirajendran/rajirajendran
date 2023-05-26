@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+
+I am an accomplished IT Analyst with a proven track record in the Government, Transportation, and Logistics sectors. My expertise lies in Windows Server, SQL Server, Microsoft 365, Azure, Powershell, Linux, Middlewares, Node JS, Express, EJS, HTML, CSS, and JavaScript. I possess strong proficiency in these areas and have honed my skills through hands-on experience. As an IT professional, I hold a Bachelor's Degree in Computer Science, which has provided me with a solid foundation in the field.
+
+# Technical Skills
+  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <!--
-**rajirajendran/rajirajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rajirajendran/rajirajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
